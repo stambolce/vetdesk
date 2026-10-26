@@ -1,107 +1,132 @@
 <div align="center">
 
-<a href="https://vetdesk.mk"><img src="https://vetdesk.mk/storage/branding/logo.png" alt="Official VetDesk logo" width="530" /></a>
+<a href="https://vetdesk.mk"><img src="https://vetdesk.mk/storage/branding/logo.png" alt="Official VetDesk logo" width="480" /></a>
 
 <br/><br/>
 
-<img src="assets/vetdesk-hero.svg" alt="VetDesk — veterinary practice management platform" width="100%" />
+<a href="https://vetdesk.mk"><img src="assets/vetdesk-hero.svg" alt="VetDesk product showcase by PROCESS IN" width="100%" /></a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/VETDESK.MK-OFFICIAL_WEBSITE-008F71?style=for-the-badge)](https://vetdesk.mk)
-[![Features](https://img.shields.io/badge/EXPLORE-FEATURES-15243A?style=for-the-badge)](https://vetdesk.mk)
-[![Pricing](https://img.shields.io/badge/PLANS-PRICING-008F71?style=for-the-badge)](https://vetdesk.mk)
-[![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-15243A?style=for-the-badge)](https://processin.mk)
+[![Official website](https://img.shields.io/badge/VETDESK_MK-OFFICIAL_WEBSITE-008F71?style=for-the-badge)](https://vetdesk.mk)
+[![Explore platform](https://img.shields.io/badge/FEATURES-EXPLORE_PLATFORM-008F71?style=for-the-badge)](https://vetdesk.mk)
+[![Created by](https://img.shields.io/badge/PROCESS_IN-CREATED_BY-15233B?style=for-the-badge)](https://processin.mk)
 
 ### One system for your entire veterinary clinic.
 
-**Appointments · Electronic Medical Records · Inventory · Invoicing · Owner Portal · Online Booking**
+**Animal Patients and Owners · Electronic Medical Records · Appointment Calendar · Visit Workflow · Inventory Management**
+
+[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
 
 </div>
 
 ---
 
-## Veterinary software designed for the way clinics actually work
+## Software built around the actual work of a veterinary clinic
 
-**[VetDesk](https://vetdesk.mk)** is a multi-tenant veterinary practice management platform developed by **[PROCESS IN](https://processin.mk)**. It connects the everyday work of a veterinary team — appointments, animal patients, clinical visits, medical documentation, inventory, billing and client communication — in one integrated system.
+**[VetDesk](https://vetdesk.mk)** is a veterinary practice management saas developed by **[PROCESS IN](https://processin.mk)**. VetDesk brings animal patient records, pet owners, clinical visits, scheduling, inventory, invoicing, reminders and client-facing services into one veterinary clinic environment. The platform is designed around the continuity of veterinary care and the operational needs of the practice.
 
-Its purpose is straightforward: **less fragmented administration, more time for patients.**
+Rather than treating patient care, scheduling, records and administration as unrelated tasks, VetDesk brings them together as a connected practice workflow. The result is a clearer operational environment for the people providing care and the teams supporting them.
 
-## One connected veterinary workspace
+## From the first appointment to ongoing care
+
+| Stage | What happens |
+|---|---|
+| **01 — Book an appointment** | Coordinate clinic availability and the planned patient visit. |
+| **02 — Identify animal and owner** | Connect the patient with its owner, history and existing clinical information. |
+| **03 — Conduct the clinical visit** | Record observations, diagnoses, treatments and clinical notes. |
+| **04 — Manage care resources** | Coordinate relevant medicines, supplies and laboratory workflows. |
+| **05 — Complete billing and records** | Keep the financial and medical context of the visit organized. |
+| **06 — Follow up and communicate** | Support reminders, owner access and clinic communication where enabled. |
+
+## One connected clinical and operational workspace
 
 <table><tr><td width="50%" valign="top">
 
-### 🐾 Patients & Pet Owners
-Animal patient profiles, owner information, history, identification and clinical context.
+### ◈ Animal Patients and Owners
+Profiles for animal patients, owners, identity details and longitudinal visit history.
 
-### 🩺 Clinical Visits & EMR
-Electronic medical records, visit workflows, diagnoses, treatments, vaccinations, clinical notes and medical history.
+### ◆ Appointment Calendar
+Daily scheduling and appointment coordination across the veterinary team.
 
-### 📅 Appointments & Calendar
-Clinic scheduling, appointment management and workflows for day-to-day veterinary operations.
+### ◉ Inventory Management
+Medicines, consumables, stock records and operational stock visibility.
 
-### 🧪 Laboratory & Diagnostics
-Laboratory-related workflows, findings and clinical documentation, depending on enabled modules.
+### ◇ Laboratory and Diagnostics
+Lab-related findings and clinical documentation, according to enabled modules.
 
-### 💊 Inventory & Stock
-Medication and supply inventory, stock movements and operational visibility.
+### ✦ Clinic Website and Online Booking
+A public clinic presence with online booking capabilities when included in the subscription.
+
+### ◌ Multi-Location and Roles
+Location-aware clinic workflows and permissions appropriate to team operations.
 
 </td><td width="50%" valign="top">
 
-### 🧾 Billing & Clinic Operations
-Invoices, payments, cash closing workflows and clinic-level operational reports.
+### ▣ Electronic Medical Records
+Clinical notes, diagnoses, treatments, vaccinations and medical documentation.
 
-### 🌐 Clinic Website & Online Booking
-Public-facing clinic website functionality and online appointment booking where included in the subscription.
+### ◎ Visit Workflow
+A practical connection between patient intake, consultation, treatment and follow-up.
 
-### 👤 Pet Owner Portal
-Owner-facing access and communication features, subject to plan entitlements.
+### ▤ Invoicing and Cash Closing
+Billing, payment-oriented administration and clinic cash-closing processes.
 
-### 🏥 Multi-location Operations
-Clinic and location-aware workflows for growing veterinary organizations.
+### ▦ Pet Owner Portal
+Owner-facing access and communication within eligible plans.
 
-### 🔔 Reminders & Follow-ups
-Reminders, follow-up processes and coordination of patient care.
+### ▧ Reminders and Follow-ups
+Support ongoing care, appointment reminders and return visits.
+
+### ▥ Reporting and Analytics
+Operational views supporting practice oversight and planning.
 
 </td></tr></table>
 
-> Some features, including owner portal, inventory, laboratory and online booking, depend on the current subscription plan. See the [official website](https://vetdesk.mk) for up-to-date availability and terms.
+### Care beyond the consultation
 
-## From appointment to follow-up
+VetDesk connects the clinic workflow to owner communication through **online booking, reminders and the Pet Owner Portal** where those modules are enabled. Inventory, laboratory, booking and owner-facing modules depend on the current subscription entitlements.
 
-<div align="center">
+## Who uses VetDesk?
 
-**Booking** → **Patient & Owner** → **Consultation** → **Medical Record** → **Invoice** → **Follow-up**
+- **Independent veterinary practices:** A connected workflow with the clinical and operational context relevant to this audience.
+- **Multi-veterinarian clinics:** A connected workflow with the clinical and operational context relevant to this audience.
+- **Veterinary teams managing animal and owner records:** A connected workflow with the clinical and operational context relevant to this audience.
+- **Clinics seeking integrated booking and client services:** A connected workflow with the clinical and operational context relevant to this audience.
 
-</div>
+## Why an integrated practice platform matters
 
----
+| Fragmented approach | VetDesk approach |
+|---|---|
+| Separate scheduling and clinical notes | Appointment and patient context in one workflow |
+| Disconnected patient information | Organized history and visit documentation |
+| Administrative work outside clinical context | Connected operational modules and reporting |
+| Inconsistent communication | Clear patient or owner-facing contact workflows |
+| Generic tools with no clinical focus | Product structure designed for the practice's daily work |
 
-## 🇲🇰 VetDesk — Еден систем за целата работа на клиниката
+## Industry terminology and product discovery
 
-**VetDesk** е современ ветеринарен софтвер за ординации и клиники, развиен од **PROCESS IN**. Наместо расфрлани тетратки, табели и неповрзани алатки, ветеринарниот тим работи во една дигитална околина.
+VetDesk serves needs often searched for as **veterinary practice management software**, **veterinary EMR**, **animal patient records**, **pet owner portal**, **veterinary appointment scheduling**, **veterinary inventory software**, **veterinary billing**, **vet clinic online booking**, **multi-location veterinary software**. The terminology is included to clarify the scope of the product and help professionals compare relevant solutions; it does not imply that unrelated integrations or specific plan features are universally available.
 
-### Што обединува платформата?
+## 🇲🇰 VetDesk — Една платформа за секојдневната работа
 
-**Пациенти и сопственици.** Картони за животните, податоци за сопствениците, историја на прегледи и медицински информации.
+VetDesk е ветеринарна платформа на PROCESS IN што ги обединува животните-пациенти, нивните сопственици, прегледите, медицинските картони, календарот, залихите, фактурирањето и комуникацијата со клиентите.
 
-**Прегледи и медицинска документација.** Клинички посети, третмани, вакцинации, наоди, дијагнози и електронски медицински картони.
+**Клучната предност** е поврзување на клиничката и административната работа во еден прегледен систем. Од закажување до медицинска документација, третман, наплата и следна комуникација — секој чекор има свое место.
 
-**Термини и организација.** Календар, закажувања и дневен преглед на активностите на клиниката.
+**Животни и сопственици.** Картони, податоци за сопствениците и историја на ветеринарни посети.
 
-**Залихи, лабораторија и наплата.** Евиденција на лекови и материјали, лабораториски процеси, фактури и извештаи, според активните модули.
+**Електронски медицински картони.** Наоди, дијагнози, терапии, вакцинации и клинички белешки.
 
-**Дигитално присуство на клиниката.** Јавна веб-страница, онлајн закажување и портал за сопственици каде што се овозможени со пакетот.
+**Календар и закажувања.** Организација на термини и дневни активности.
 
-**Повеќе корисници и локации.** Организација на тимската работа и поддршка за клиники со повеќе локации, согласно избраниот пакет.
+**Работен тек на преглед.** Поврзување прием, консултација, третман и контрола.
 
-### Помалку администрација. Повеќе време за пациентите.
+**Магацин и залихи.** Лекови, материјали, движење и состојба на залихите.
 
-<div align="center">
+**Фактури и касовно затворање.** Наплата, административна евиденција и дневни финансиски процеси.
 
-[![Посети VetDesk](https://img.shields.io/badge/ОТВОРИ_VETDESK-ВЕБ_СТРАНИЦА-008F71?style=for-the-badge)](https://vetdesk.mk)
-
-</div>
+[Прочитај ја целосната македонска презентација](README.mk.md).
 
 ---
 
@@ -110,22 +135,21 @@ Reminders, follow-up processes and coordination of patient care.
 | | |
 |---|---|
 | **Product** | [VetDesk](https://vetdesk.mk) |
-| **Developed by** | [PROCESS IN](https://processin.mk) |
+| **Developer** | [PROCESS IN](https://processin.mk) |
 | **Category** | Veterinary practice management SaaS |
-| **Audience** | Veterinary practices and clinics |
-| **Product scope** | Clinical records, scheduling, inventory, billing and client-facing modules |
-| **Languages** | Macedonian · English · Albanian support varies by module |
+| **Audience** | Independent veterinary practices; Multi-veterinarian clinics; Veterinary teams managing animal and owner records; Clinics seeking integrated booking and client services |
+| **Core workflow** | Book → Identify → Conduct → Manage → Complete → Follow |
 | **Official website** | https://vetdesk.mk |
 | **Company portfolio** | https://github.com/stambolce/process-in |
 
 <div align="center">
 
-### Modernize your clinic with a connected veterinary workspace.
+### One system for your entire veterinary clinic.
 
-[![Discover VetDesk](https://img.shields.io/badge/DISCOVER_VETDESK-VETDESK.MK-008F71?style=for-the-badge)](https://vetdesk.mk)
+[![Explore the platform](https://img.shields.io/badge/VETDESK-EXPLORE_THE_PLATFORM-008F71?style=for-the-badge)](https://vetdesk.mk)
 
 </div>
 
 ---
 
-<sub>Official public VetDesk product showcase by PROCESS IN. This repository does not contain proprietary application source code, credentials or customer data and does not grant an open-source license. Features, plan entitlements and service availability should be confirmed on the official product website.</sub>
+<sub>Official public VetDesk product showcase maintained by PROCESS IN. This is not the proprietary application source code and does not grant an open-source license. Specific plan entitlements, localization and service terms follow the current official offering.</sub>
