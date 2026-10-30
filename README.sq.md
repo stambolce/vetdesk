@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://vetdesk.mk"><img src="https://vetdesk.mk/storage/branding/logo.png" alt="Official VetDesk logo" width="480" /></a>
+# VetDesk
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://vetdesk.mk"><img src="assets/vetdesk-hero.svg" alt="VetDesk product showcase by PROCESS IN" width="100%" /></a>
+<img src="https://vetdesk.mk/storage/branding/logo.png" alt="VetDesk — prezantim vizual i produktit" width="480" />
 
-<br/>
+<img src="assets/vetdesk-hero.svg" alt="VetDesk — prezantim vizual i produktit" width="100%" />
+
+**Kujdesi veterinar dhe operacionet të lidhura.**
 
 [![Official website](https://img.shields.io/badge/VETDESK_MK-OFFICIAL_WEBSITE-008F71?style=for-the-badge)](https://vetdesk.mk)
 [![Explore platform](https://img.shields.io/badge/FEATURES-EXPLORE_PLATFORM-008F71?style=for-the-badge)](https://vetdesk.mk)
 [![Created by](https://img.shields.io/badge/PROCESS_IN-CREATED_BY-15233B?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Kujdesi veterinar dhe operacionet të lidhura.
-
-**Kujdesi veterinar dhe operacionet të lidhura.**
+**LIVE**
 
 </div>
-
----
 
 ## Softuer rreth punës reale veterinare
 
@@ -84,7 +74,7 @@ Menaxhim veterinar, EMR, kartela kafshësh, portal pronari, takime, inventar, fa
 |---|---|
 | Produkti | VetDesk |
 | Faqja zyrtare | [vetdesk.mk](https://vetdesk.mk) |
-| Kategoria | SaaS për klinika veterinare |
+| Kategoria | SaaS menaxhimi për klinika veterinare |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

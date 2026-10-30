@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://vetdesk.mk"><img src="https://vetdesk.mk/storage/branding/logo.png" alt="Official VetDesk logo" width="480" /></a>
+# VetDesk
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://vetdesk.mk"><img src="assets/vetdesk-hero.svg" alt="VetDesk product showcase by PROCESS IN" width="100%" /></a>
+<img src="https://vetdesk.mk/storage/branding/logo.png" alt="VetDesk — ürün görsel sunumu" width="480" />
 
-<br/>
+<img src="assets/vetdesk-hero.svg" alt="VetDesk — ürün görsel sunumu" width="100%" />
+
+**Veteriner bakımı ve operasyonlar bağlantılı.**
 
 [![Official website](https://img.shields.io/badge/VETDESK_MK-OFFICIAL_WEBSITE-008F71?style=for-the-badge)](https://vetdesk.mk)
 [![Explore platform](https://img.shields.io/badge/FEATURES-EXPLORE_PLATFORM-008F71?style=for-the-badge)](https://vetdesk.mk)
 [![Created by](https://img.shields.io/badge/PROCESS_IN-CREATED_BY-15233B?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Veteriner bakımı ve operasyonlar bağlantılı.
-
-**Veteriner bakımı ve operasyonlar bağlantılı.**
+**LIVE**
 
 </div>
-
----
 
 ## Veteriner kliniğinin gerçek işi etrafında yazılım
 
