@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://vetdesk.mk"><img src="https://vetdesk.mk/storage/branding/logo.png" alt="Official VetDesk logo" width="480" /></a>
